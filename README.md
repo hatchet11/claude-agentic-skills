@@ -2,7 +2,7 @@
 
 A collection of custom **slash commands** and **subagents** for [Claude Code](https://claude.com/claude-code) — built and used daily across law-enforcement, fraud, intelligence, content, and emergency-management work. Free to use, adapt, and build on.
 
-Built by an Army Ranger combat veteran working in fraud detection, intelligence analysis, and applied AI. If these are useful, **follow along** — more get added as the system grows.
+Built by practitioners working in fraud detection, intelligence analysis, and applied AI. If these are useful, **follow along** — more get added as the system grows.
 
 ---
 
