@@ -1,5 +1,10 @@
 # Claude Agentic Skills
 
+![Status: Active](https://img.shields.io/badge/status-active-brightgreen?style=flat-square)
+![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
+![Built for Claude Code](https://img.shields.io/badge/built%20for-Claude%20Code-blueviolet?style=flat-square)
+
 A collection of custom **slash commands** and **subagents** for [Claude Code](https://claude.com/claude-code) — built and used daily across law-enforcement, fraud, intelligence, content, and emergency-management work. Free to use, adapt, and build on.
 
 Built by practitioners working in fraud detection, intelligence analysis, and applied AI. If these are useful, **follow along** — more get added as the system grows.
